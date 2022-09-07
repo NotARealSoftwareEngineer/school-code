@@ -1,0 +1,7 @@
+﻿  homework_test.c
+t:\homework_test\homework_test\homework_test.c(32): warning C4013: 'gets' undefined; assuming extern returning int
+t:\homework_test\homework_test\homework_test.c(35): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  t:\homework_test\homework_test\homework_test.c(35): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  t:\homework_test\homework_test\homework_test.c(35): note: the missing variadic argument 2 is required by format string '%c'
+  t:\homework_test\homework_test\homework_test.c(35): note: this argument is used as a buffer size
+  homework_test.vcxproj -> T:\homework_test\Debug\homework_test.exe
